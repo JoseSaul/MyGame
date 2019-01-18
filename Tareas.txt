@@ -1,0 +1,13 @@
+Poderes:
+Fuego: ataque en area
+Hielo: daño y reduccion de movimiento
+Rayo: Stun
+Poder Oscuro: aumenta el daño fisico
+Poder luz: Restaura salud, requiere estar estático
+
+Widget:
+Magia - Vida estamina y mana - Orbes
+
+Escudo: Reduccion movimiento y al ser golpeado reduce estamina
+
+*-Hay un bug que quita la instancia
