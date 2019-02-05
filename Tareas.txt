@@ -10,4 +10,22 @@ Magia - Vida estamina y mana - Orbes
 
 Escudo: Reduccion movimiento y al ser golpeado reduce estamina
 
-*-Hay un bug que quita la instancia
+Habilidades:
+vida + 25
+estamina + 25
+ataque + 10 
+mana + 25
+
+patada maxima
+
+vida + 50
+estamina + 50
+ataque + 15
+mana + 50
+
+escudo maximo
+
+vida + 75
+estamina + 75
+ataque + 20
+mana + 75
