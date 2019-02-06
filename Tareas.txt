@@ -5,8 +5,7 @@ Rayo: Stun
 Poder Oscuro: aumenta el daño fisico
 Poder luz: Restaura salud, requiere estar estático
 
-Widget:
-Magia - Vida estamina y mana - Orbes
+Reparar animación golpe del ThirdPersonCharacter
 
 Escudo: Reduccion movimiento y al ser golpeado reduce estamina
 
