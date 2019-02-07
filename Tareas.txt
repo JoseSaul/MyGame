@@ -5,10 +5,6 @@ Rayo: Stun
 Poder Oscuro: aumenta el daño fisico
 Poder luz: Restaura salud, requiere estar estático
 
-Reparar animación golpe del ThirdPersonCharacter
-
-Escudo: Reduccion movimiento y al ser golpeado reduce estamina
-
 Habilidades:
 vida + 25
 estamina + 25
