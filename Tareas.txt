@@ -1,3 +1,5 @@
+*Arreglar bajar y subir menú
+
 Poderes:
 Fuego: ataque en area
 Hielo: daño y reduccion de movimiento
