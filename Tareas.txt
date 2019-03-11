@@ -1,3 +1,6 @@
+-Crear el ataque a distancia
+-Animacion golpe de los enemigos
+
 Poderes:
 Fuego: ataque en area
 Hielo: daño y reduccion de movimiento
