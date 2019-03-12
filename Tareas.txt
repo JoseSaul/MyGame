@@ -1,5 +1,6 @@
 -Crear el ataque a distancia
--Animacion golpe de los enemigos
+-Muerte por caida
+-Crear pergaminos de magia
 
 Poderes:
 Fuego: ataque en area
