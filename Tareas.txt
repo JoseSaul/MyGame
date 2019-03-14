@@ -1,6 +1,7 @@
 -Crear el ataque a distancia
 -Muerte por caida
 -Crear pergaminos de magia
+-Guardar pociones y arreglar menu skills
 
 Poderes:
 Fuego: ataque en area
