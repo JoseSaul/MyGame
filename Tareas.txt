@@ -1,7 +1,7 @@
--Crear el ataque a distancia
--Muerte por caida
--Crear pergaminos de magia
--Guardar pociones y arreglar menu skills
+*Antes de compilar cambiar 1 por ESC
+-Detectar mando o teclado y hacer menu
+-*Muerte por caida
+-Widget y sonido aviso magia desbloqueada
 
 Poderes:
 Fuego: ataque en area
